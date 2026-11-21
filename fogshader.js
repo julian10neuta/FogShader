@@ -1,3 +1,8 @@
+// Fabián Espitia Sotelo
+// Daniel Libardo Diaz Gonzalez
+// Santiago Bello Moreno
+// Julian David Velandia Neuta
+
 // Se utiliza P5.js
 // Artículo: https://webglfundamentals.org/webgl/lessons/webgl-fog.html
 // Imagen de referncia para textura: Nachito (Mascota Unal)
